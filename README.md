@@ -8,3 +8,4 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
 
   0. [SQL basics](docs/basics.md)
   1. [SELECT](docs/select.md)
+  2. [Functions](docs/function.md)
