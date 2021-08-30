@@ -1,4 +1,4 @@
-Functions
+Function(1) 문자함수
 =============
 
 __0. SQL 함수의 분류__  
