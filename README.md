@@ -9,3 +9,4 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
   0. [SQL basics](docs/basics.md)
   1. [SELECT](docs/select.md)
   2. [Function(1)-문자함수](docs/function-1.md)
+  3. [Function(2)-숫자함수](docs/function-2.md)
