@@ -13,3 +13,4 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
   4. [Function(3)-날짜함수](docs/function-3.md)
   5. [Function(4)-형변환함수](docs/function-4.md)
   6. [Function(5)-일반함수](docs/function-5.md)
+  7. [JOIN](docs/join.md)
