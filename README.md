@@ -16,3 +16,4 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
   7. [JOIN](docs/join.md)
   8. [Sub query](docs/subquery.md)
   9. [INSERT](docs/insert.md)
+  10. [UPDATE](docs/update.md)
