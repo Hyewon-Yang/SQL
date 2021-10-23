@@ -18,3 +18,4 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
   9. [INSERT](docs/insert.md)
   10. [UPDATE](docs/update.md)
   11. [DELETE](docs/delete.md)
+  12. [INSERT INTO ON DUPLICATE KEY](docs/insert_into_on_duplicate_key.md)
