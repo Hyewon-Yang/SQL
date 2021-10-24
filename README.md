@@ -21,4 +21,5 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
   12. [INSERT INTO ON DUPLICATE KEY](docs/insert_into_on_duplicate_key.md)
   13. [DDL](docs/DDL.md)
   14. [Data dictionary](docs/data_dictionary.md)
-  15. 
+  15. [Constraint](docs/constraint.md)
+  16. 
