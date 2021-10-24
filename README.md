@@ -23,4 +23,4 @@ SQL은 이 단계에서 데이터베이스에 저장되어 있는 데이터에 �
   14. [Data dictionary](docs/data_dictionary.md)
   15. [Constraint](docs/constraint.md)
   16. [Index](docs/index.md)
-  17. 
+  17. [View](docs/view.md)
